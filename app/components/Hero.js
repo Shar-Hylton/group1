@@ -91,7 +91,6 @@ export default function Hero() {
                 )}
               </div>
             </div>
-
             {/* Right Column - Visual */}
             <div className="lg:pl-8">
               <div className="relative">
